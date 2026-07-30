@@ -1,2 +1,4 @@
 # Blind75
-My prepration journey, specifically targetted for inyternship.
+
+My prepration journey, specifically targetted for internship.
+
